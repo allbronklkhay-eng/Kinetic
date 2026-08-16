@@ -1,0 +1,46 @@
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.exe.config
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.exe
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.pdb
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.AssemblyReference.cache
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Inventario.resources
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Properties.Resources.resources
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.GenerateResource.cache
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.CoreCompileInputs.cache
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.exe
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.pdb
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Inicio.resources
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Sesion.resources
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.FormCalculoValores.resources
+C:\Users\guasa\source\repos\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.frmFacturcion.resources
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.exe.config
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.exe
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.pdb
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.AssemblyReference.cache
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.FormCalculoValores.resources
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.frmFacturcion.resources
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.frmmenuinicio.resources
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Inventario.resources
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Properties.Resources.resources
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Sesion.resources
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.GenerateResource.cache
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.CoreCompileInputs.cache
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.exe
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.pdb
+C:\Users\JFranx\Downloads\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.menu.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.exe.config
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.exe
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\bin\Debug\IMPORTADORAPOO.pdb
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.AssemblyReference.cache
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.FormCalculoValores.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.frmFacturcion.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.frmmenuinicio.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Inventario.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.menu.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Properties.Resources.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.Sesion.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.GenerateResource.cache
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.csproj.CoreCompileInputs.cache
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.exe
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.pdb
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.FormAgregarProducto.resources
+C:\Users\guasa\Downloads\GTS-2A (1)\GTS-2A\GTS-2A\Grand theft Software\PROYECTO\IMPORTADORAPOO\obj\Debug\IMPORTADORAPOO.VistaFactura.resources
